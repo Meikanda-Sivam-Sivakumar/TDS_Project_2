@@ -1,7 +1,7 @@
 # Data Analyst Agent — Your AI-Powered Data Companion
 
 > Smarter, faster, and more intuitive analysis of your datasets using **Generative AI and Python.**
-> Repository: *Insert your GitHub repository link here*
+> Repository: [*Meikanda Sivam*](https://github.com/Meikanda-Sivam-Sivakumar/)
 
 ---
 
